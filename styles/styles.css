@@ -11,7 +11,7 @@ body {
 
 .container {
   width: 100%;
-  max-width: 100px;
+  max-width: 1000px;
   position: relative;
   display: flex;
   justify-content: space-between;
@@ -53,7 +53,6 @@ body {
 }
 
 .container .card .cardFace.cardFace1 .content {
-
   transition: 0.5s;
   text-align: center;
 }
